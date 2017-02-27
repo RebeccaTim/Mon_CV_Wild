@@ -1,0 +1,55 @@
+body {
+	background-color: rgba(104,187,285,0.4);
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+#header {
+	height: 150px;
+	text-align: center;
+	padding-top: 30px;
+	
+}
+#container {
+	padding: 10px;
+}
+#left-box {
+	float: left;
+	margin: 0 0 10px 10px;
+	width: 260px;
+	height: 740px;
+	background-color: rgba(9,30,45,0.8);
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+
+ul {margin-top: 40px;text-align: left;}
+
+#right-box {
+	margin-left: 300px;
+}
+#experiences-box, #studies-box {
+	background-color: white;
+	margin: 10px;
+	padding:15px;
+	border: 1px solid rgb(9,30,45);
+
+}
+
+.experience, .study {
+	border: 3px solid rgb(9,30,45);
+	background-color: rgb(104,187,285);
+	color: rgb(9,30,45);
+	margin: 10px;
+	margin-top: 10px;
+	padding:15px;
+
+}
+
+h3, h4, h5 {
+	display: inline;
+}
+
+#footer { height: 100px; overflow-x: }
+
